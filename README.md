@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridho</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Ridho</h1>
 <h3 align="center">Student • Tech Enthusiast • Future CEH & AgriPreneur</h3>
 
 <p align="center">
@@ -42,4 +42,4 @@ Design      : Canva, Figma
 🌐 Website/Portfolio: (coming soon...)
 
 ⚡ Fun Fact--->
-Aku percaya teknologi bukan cuma untuk masa depan, tapi alat untuk memperbaiki dunia hari ini. 💡
+Aku percaya teknologi bukan cuma untuk masa depan, tapi alat untuk memperbaiki dunia hari ini. 💡~
