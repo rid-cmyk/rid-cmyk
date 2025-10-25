@@ -18,7 +18,7 @@
 ---
 
 ### 💻 Tech Stack
-```bash
+
 Languages   : HTML, CSS, JavaScript, SQL, Python
 Tools       : Git, GitHub, MySQL, SQLite, Kodular, AppSheet
 Other       : Firebase (optional), Arduino, NodeMCU, Tinkercad
