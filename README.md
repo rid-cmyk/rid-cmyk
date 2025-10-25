@@ -23,7 +23,7 @@
 <div align="center">
   
   <!-- GitHub Stats with Animation -->
-  <a href="https://github.com/namakamu">
+  <a href="[https://github.com/rid-cmyk/rid-cmyk)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=30,0d0d0d,191970&title_color=fff&text_color=fff&icon_color=79ff97"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&langs_count=8&theme=radical&border_radius=20&bg_color=30,191970,0d0d0d&title_color=fff&text_color=fff"/>
   </a>
