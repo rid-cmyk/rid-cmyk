@@ -1,229 +1,103 @@
-<!-- 3D Animated Header -->
-<div align="center">
-
-<!-- CSS 3D Animations -->
-<style>
-  @keyframes float {
-    0%, 100% { transform: translateY(0px) rotate(0deg); }
-    50% { transform: translateY(-20px) rotate(5deg); }
-  }
-  @keyframes glow {
-    0%, 100% { box-shadow: 0 0 20px #00F7FF; }
-    50% { box-shadow: 0 0 40px #00F7FF, 0 0 60px #00F7FF; }
-  }
-  @keyframes slideIn3D {
-    0% { transform: perspective(1000px) rotateX(90deg); opacity: 0; }
-    100% { transform: perspective(1000px) rotateX(0deg); opacity: 1; }
-  }
-  @keyframes typewriter {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  @keyframes blink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0; }
-  }
-  .float-animation { animation: float 6s ease-in-out infinite; }
-  .glow-animation { animation: glow 2s ease-in-out infinite; }
-  .slide-in { animation: slideIn3D 1s ease-out; }
-  .typewriter { 
-    overflow: hidden;
-    border-right: 3px solid #00F7FF;
-    white-space: nowrap;
-    animation: typewriter 3s steps(40) 1s 1 normal both, blink 1s infinite;
-  }
-  * { transition: all 0.3s ease-in-out; }
-</style>
-
-<!-- Animated 3D Text -->
-<h1 align="center" class="slide-in">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=70&lines=✨+Muhammad+Ridho;🚀+Tech+Innovator;🌱+Future+AgriPreneur" alt="3D Typing Animation" />
-  </a>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Muhammad+Ridho;🎓+Student;💻+Tech+Enthusiast;🔒+Future+CEH;🌱+AgriPreneur" alt="Typing Animation" />
 </h1>
 
-<!-- Floating 3D Animation -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/gh-pages/branch-header.svg" width="100%" class="float-animation" />
-
-<!-- Animated Wave Divider -->
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=blinking&fontAlign=70" />
-</div>
-
-</div>
-
-<br/>
-
-<!-- 3D Profile Cards -->
 <div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-    
-<!-- Left Profile Card -->
-<div align="center" class="float-animation">
   
-![3D Profile](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=180&section=header&text=👋+Hi+There!&fontSize=40&fontColor=fff&animation=twinkling)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=00F72D&center=true&vCenter=true&width=600&lines=🚀+Building+Dreams+with+Code+and+Faith;📚+Tahfidz+Scholarship+in+Progress;🔐+Future+Certified+Ethical+Hacker;🤖+AI+%2B+Electronics+Lover;🌾+In+Love+with+Plantation+Business;💡+Tech+for+Better+Tomorrow)
   
 </div>
 
-    </td>
-    <td width="50%">
-    
-<!-- Right Status Card -->
-<div align="center" class="glow-animation">
+<br/>
 
-![Status](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&section=header&text=🚀+Building+Future&fontSize=30&fontColor=fff&animation=scaleIn)
-
-</div>
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+  <!-- GitHub Stats Cards -->
+  [![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=45,0d0d0d,1e0036,0d0d0d&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/namakamu)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical&border_radius=20&bg_color=45,1e0036,0d0d0d,1e0036&title_color=fff&text_color=fff)](https://github.com/namakamu)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=namakamu&theme=radical&border_radius=20&background=0D0D0D&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF)](https://git.io/streak-stats)
 
 </div>
 
 <br/>
-
-<!-- 3D Animated Stats -->
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%">
-    
-### 📊 GitHub Analytics
-![](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20&bg_color=45,0d0d0d,1e0036,0d0d0d&title_color=fff&text_color=fff&icon_color=79ff97&border_color=00F7FF&cache_seconds=1800)
-
-    </td>
-    <td width="33%">
-    
-### 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=namakamu&layout=compact&theme=radical&border_radius=20&bg_color=45,1e0036,0d0d0d,1e0036&title_color=fff&text_color=fff&border_color=00F7FF&langs_count=8)
-
-    </td>
-    <td width="33%">
-    
-### 🔥 GitHub Streak
-![](https://streak-stats.demolab.com?user=namakamu&theme=radical&border_radius=20&background=0D0D0D&border=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&animation=slideInLeft)
-
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- About Me Section with 3D Effects -->
-<div align="center">
 
 ## 🎯 About Me
 
-<div class="slide-in" style="background: linear-gradient(135deg, #0d0d0d, #1e0036); padding: 2rem; border-radius: 20px; border: 2px solid #00F7FF;">
+<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <div class="float-animation">
-        <h3>🎓 Education</h3>
-        <p><strong>High School RPL Student</strong></p>
-        <p>Software Engineering Focus</p>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div class="float-animation" style="animation-delay: 0.5s;">
-        <h3>🚀 Goals</h3>
-        <p><strong>Future CEH & AgriPreneur</strong></p>
-        <p>Tech + Agriculture Vision</p>
-      </div>
-    </td>
-    <td align="center" width="33%">
-      <div class="float-animation" style="animation-delay: 1s;">
-        <h3>🌱 Passion</h3>
-        <p><strong>AI + IoT Innovation</strong></p>
-        <p>Smart Plantation Dream</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+| 🎓 Education | 🚀 Goals | 🌟 Passion |
+|:------------:|:--------:|:----------:|
+| **High School RPL Student** | **Future CEH** | **Tech + Entrepreneurship** |
+| 📚 Learning AI, IoT, Security | 🌱 Build Smart Plantation | 💡 Innovate for Better World |
+| 🕋 Tahfidz Scholarship | 🔒 Cybersecurity Expert | 🌍 Local Solution, Global Impact |
 
 </div>
 
 <br/>
 
-<!-- 3D Floating Tech Stack -->
+## 🛠️ Tech Stack
+
 <div align="center">
 
-## 🛠️ 3D Tech Stack
+### 💻 Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- 3D Animated Tech Icons -->
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kodular](https://img.shields.io/badge/Kodular-00C4CC?style=for-the-badge&logo=android&logoColor=white)
+![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🔩 Hardware & IoT
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![NodeMCU](https://img.shields.io/badge/NodeMCU-00C4CC?style=for-the-badge&logo=espressif&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### 🎨 Design Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🚀 Current Projects
+
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="96" class="float-animation">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      </a>
-      <br>HTML5
+    <td width="33%" align="center">
+      <h3>🔒 Network Security App</h3>
+      <p><em>Learning CEH Tools & Security Protocols</em></p>
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+      <br/>
+      <kbd>Security</kbd> <kbd>Python</kbd> <kbd>CEH</kbd>
     </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 0.2s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      </a>
-      <br>CSS3
+    <td width="33%" align="center">
+      <h3>📱 Islamic Canteen App</h3>
+      <p><em>Balance-based System with Attendance</em></p>
+      <img height="60" src="https://img.icons8.com/color/96/000000/android-os.png"/>
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <br/>
+      <kbd>Kodular</kbd> <kbd>AppSheet</kbd> <kbd>SQL</kbd>
     </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 0.4s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 0.6s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 0.8s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 1s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 1.2s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 1.4s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" />
-      </a>
-      <br>Arduino
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 1.6s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96" class="float-animation" style="animation-delay: 1.8s;">
-      <a href="#">
-        <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="AI" />
-      </a>
-      <br>AI
+    <td width="33%" align="center">
+      <h3>🌾 AI Plantation Sim</h3>
+      <p><em>Smart Monitoring with AI Integration</em></p>
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+      <br/>
+      <kbd>AI</kbd> <kbd>IoT</kbd> <kbd>Python</kbd>
     </td>
   </tr>
 </table>
@@ -232,210 +106,71 @@
 
 <br/>
 
-<!-- 3D Project Showcase -->
+## 📊 GitHub Analytics
+
 <div align="center">
 
-## 🚀 3D Project Portfolio
+<!-- Activity Graph -->
+[![Muhammad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=namakamu&theme=react-dark&bg_color=0D1117&hide_border=true&area_color=00FF00&line=00FF00&point=FFFFFF&area=true)](https://github.com/namakamu)
 
-<!-- Project Cards with 3D Effect -->
-<table>
-  <tr>
-    <td width="33%">
-    
-### 🔒 Network Security
-<div class="glow-animation">
-![Security](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=CEH+Tools&fontSize=20&fontColor=fff&animation=twinkling)
-</div>
-<p align="center">
-  <kbd>Python</kbd> <kbd>Security</kbd> <kbd>Linux</kbd>
-</p>
-<p align="center" style="font-size: 0.9em; color: #00F7FF;">
-  Learning ethical hacking tools & security protocols
-</p>
-
-    </td>
-    <td width="33%">
-    
-### 📱 Canteen App
-<div class="glow-animation" style="animation-delay: 0.3s;">
-![App](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Kodular+App&fontSize=20&fontColor=fff&animation=twinkling)
-</div>
-<p align="center">
-  <kbd>Kodular</kbd> <kbd>SQL</kbd> <kbd>Mobile</kbd>
-</p>
-<p align="center" style="font-size: 0.9em; color: #00F7FF;">
-  Islamic boarding school canteen management system
-</p>
-
-    </td>
-    <td width="33%">
-    
-### 🌾 Smart Plantation
-<div class="glow-animation" style="animation-delay: 0.6s;">
-![AI](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=AI+IoT&fontSize=20&fontColor=fff&animation=twinkling)
-</div>
-<p align="center">
-  <kbd>Python</kbd> <kbd>AI</kbd> <kbd>IoT</kbd>
-</p>
-<p align="center" style="font-size: 0.9em; color: #00F7FF;">
-  AI-powered plantation monitoring system
-</p>
-
-    </td>
-  </tr>
-</table>
+<!-- Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=namakamu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/namakamu)
 
 </div>
 
 <br/>
 
-<!-- 3D Activity Graph -->
+## 📫 Connect With Me
+
 <div align="center">
 
-## 📈 3D Activity Timeline
-
-<div class="slide-in">
-![](https://github-readme-activity-graph.vercel.app/graph?username=namakamu&theme=react-dark&bg_color=0D1117&hide_border=true&area_color=00F7FF&line=00F7FF&point=FFFFFF&area=true&custom_title=My+3D+Contribution+Map&animation=slideInLeft)
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:see.ridho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uyyridho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 <br/>
 
-<!-- 3D Trophies -->
+## 💡 Inspirational Quotes
+
 <div align="center">
 
-## 🏆 3D Achievement Trophies
-
-<div class="float-animation">
-![](https://github-profile-trophy.vercel.app/?username=namakamu&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&animation=scaleIn)
-</div>
-
-</div>
+![Random Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-<!-- 3D Contact Section -->
-<div align="center">
-
-## 📞 3D Connect With Me
-
-<!-- Animated Contact Buttons -->
-<table>
-  <tr>
-    <td align="center">
-      <a href="mailto:see.ridho@gmail.com" class="glow-animation">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=180&height=40&lines=📧+Email+Me" alt="Email Animation" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/uyyridho" class="glow-animation" style="animation-delay: 0.2s;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=180&height=40&lines=📸+Instagram" alt="Instagram Animation" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="#" class="glow-animation" style="animation-delay: 0.4s;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00F7FF&background=000000&center=true&vCenter=true&width=180&height=40&lines=🌐+Portfolio+Soon" alt="Portfolio Animation" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<br/>
-
-<!-- 3D Quote Section -->
-<div align="center">
-
-## 💫 3D Inspirational Thoughts
-
-<!-- Animated Quote Box -->
-<div align="center" class="float-animation">
-
-![Quote](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=✨+Tech+for+Better+Tomorrow&fontSize=20&fontColor=fff&animation=blinking)
-
-</div>
-
-<div class="slide-in">
-> ### 🎯 **"Technology is not just for the future, but a tool to fix today's world."**
+> ### 🌟 **"Technology is not just for the future, but a tool to fix today's world."** 
 > 
-> ### 🌟 **"Coding today, leading tomorrow's agricultural revolution!"**
+> ### 💡 **"Coding today, leading tomorrow's agricultural revolution!"**
 > 
-> ### 💡 **"Innovate with purpose, build with passion!"**
-</div>
+> ### 🚀 **"Innovate with purpose, code with passion!"**
 
 </div>
 
 <br/>
 
-<!-- 3D Snake Animation -->
+## 🎉 Fun Stats & Metrics
+
 <div align="center">
 
-## 🐍 3D Contribution Snake
+![Profile Views](https://komarev.com/ghpvc/?username=namakamu&label=Profile%20Views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/namakamu?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/namakamu?label=Stars&style=social)
 
-<div class="glow-animation">
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 🎯 **Thanks for visiting! Let's build something amazing together!** 
+
 ![Snake animation](https://github.com/namakamu/namakamu/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+**"Coding today, leading tomorrow's agricultural revolution!"** 🌱
 
 </div>
-
-<br/>
-
-<!-- 3D Footer -->
-<div align="center">
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=blinking&fontAlign=70" />
-
-<!-- Visitor Counter -->
-<div align="center" class="float-animation">
-
-### 🌟 Thanks for Visiting!
-
-![Visitor Count](https://komarev.com/ghpvc/?username=namakamu&label=3D+Profile+Views&color=00F7FF&style=for-the-badge&animation=bounce)
-
-</div>
-
-<!-- Final Typing Animation -->
-<div align="center" class="typewriter" style="font-size: 1.2em; color: #00F7FF; margin: 2rem 0;">
-  Let's build the future together with code and innovation! 🚀
-</div>
-
-</div>
-
-<!-- Additional CSS for smooth hover effects -->
-<style>
-  img:hover, a:hover {
-    transform: scale(1.05) rotate(2deg);
-    filter: brightness(1.2);
-  }
-  kbd {
-    background: linear-gradient(135deg, #00F7FF, #0077FF);
-    color: white;
-    padding: 0.3rem 0.6rem;
-    border-radius: 5px;
-    font-family: monospace;
-    animation: glow 3s ease-in-out infinite;
-  }
-  kbd:hover {
-    transform: scale(1.1);
-    animation: glow 1s ease-in-out infinite;
-  }
-  table {
-    border-collapse: separate;
-    border-spacing: 15px;
-  }
-  td {
-    background: rgba(13, 13, 13, 0.8);
-    border-radius: 15px;
-    padding: 1rem;
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(0, 247, 255, 0.3);
-  }
-  td:hover {
-    background: rgba(30, 0, 54, 0.9);
-    border-color: #00F7FF;
-    box-shadow: 0 0 30px rgba(0, 247, 255, 0.5);
-  }
-</style>
